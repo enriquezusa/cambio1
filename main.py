@@ -6,7 +6,8 @@ DEFAULT_DUPLICATES = False
 DEFAULT_ORDER_ASC = True
 
 <<<<<<< new-order-parameter
-
+## Test 1 cambios
+print(f"Inicio")
 def sort_list(items, ascending):
 =======
 def sort_list(items, ascending=True):
